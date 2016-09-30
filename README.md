@@ -1,6 +1,4 @@
-# Week7 Project1
-
-Ajax and JSON with OMDB
+# Ajax and JSON with OMDB
 
 This assignment is more open than the past assignments. 
 You are free to build a simple web page that interacts 
